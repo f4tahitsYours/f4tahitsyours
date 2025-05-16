@@ -1,6 +1,4 @@
-<p align="center">
-  <i>"Sultan Fatahillah</i>
-</p>
+<h1 align="center">Sultan Fatahillah</h3>
 
 <h3 align="center">Machine Learning Engineer | Data Scientist | Pengembang Solusi AI</h3>
 
