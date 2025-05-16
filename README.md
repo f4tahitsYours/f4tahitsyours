@@ -1,8 +1,7 @@
-<h1 align="center">Halo, saya Sultan Fatahillah👋</h3>
+<h1 align="center">👋 Halo, Saya Sultan Fatahillah</h1>
 
----
+<h3 align="center">Machine Learning Engineer | Data Scientist | AI Solutions Developer</h3>
 
-<h3 align="center">Machine Learning Engineer | Data Scientist | Pengembang Solusi AI</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nuruddin-sulthon-syah-fatahillah-rahmani-35765829b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -19,66 +18,74 @@
 
 ## 🚀 Tentang Saya
 
-Saya mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialisasi di bidang Machine Learning dan Data Science. Fokus saya adalah mengembangkan sistem cerdas yang menyelesaikan masalah nyata melalui pendekatan berbasis data. Saya bersemangat menciptakan solusi teknologi yang memanfaatkan teknik AI terkini.
+Saya adalah mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialisasi dalam bidang Machine Learning dan Data Science. Saya antusias dalam membangun sistem cerdas berbasis data untuk memecahkan permasalahan nyata. Saat ini saya fokus mengembangkan solusi AI dan mendalami praktik terbaik MLOps serta cloud deployment.
 
-**Pencapaian Profesional:**
-- 🎓 **Lulusan Bangkit Academy 2024** (Machine Learning Path) - Program bakat teknologi kompetitif oleh Google
-- 🏆 **Team Lead ArtScape** - Membangun platform pasar seni berbasis AI dari konsep hingga produksi
-- 🔍 **Praktisi Data Science** - Pengalaman menyeluruh dalam pipeline ML dari pengolahan data hingga deployment model
-- 🌱 **Pembelajar Aktif** - Saat ini mendalami MLOps dan solusi AI berbasis cloud
-
-## 🛠 Keahlian Teknis
+### 🎯 Highlight Profesional:
+- 🎓 **Lulusan Bangkit Academy 2024** (Machine Learning Path)
+- 🏆 **Team Lead ArtScape** — Membangun platform pasar seni berbasis AI
+- 🤖 **End-to-End Machine Learning Practitioner** — Dari eksplorasi data hingga deployment
+- 🌱 **Saat ini mempelajari:** MLOps, cloud AI solutions, dan production-level ML pipelines
 
 ---
 
-### Machine Learning & AI
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost">
-</div>
+## 🛠️ Keahlian Teknis
 
-### Data Engineering & MLOps
-<div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow">
-</div>
+### 🔍 Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge&logo=xgboost&logoColor=white" />
+</p>
 
-### Platform Cloud
-<div>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
-</div>
+### 🛠️ Data Engineering & MLOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+</p>
+
+### ☁️ Cloud Platform
+<p>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+</p>
+
+---
 
 ## 🧠 Bahasa Pemrograman yang Sering Digunakan
 
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4tahitsYours&layout=compact&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4tahitsYours&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-## 📈 Statistik GitHub
-
 ---
+
+## 📊 Statistik GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=f4tahitsYours&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=f4tahitsYours&theme=radical" alt="GitHub Streak">
 </p>
 
+---
+
 ## 📫 Hubungi Saya
+
+Saya terbuka untuk kolaborasi dalam proyek AI/ML atau peluang kerja yang menarik. Jangan ragu untuk menghubungi saya melalui platform berikut:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nuruddin-sulthon-syah-fatahillah-rahmani-35765829b/" target="_blank">LinkedIn</a> • 
+  <a href="mailto:adjikp76@gmail.com" target="_blank">Email</a> • 
+  <a href="https://instagram.com/sultanfatahillah_" target="_blank">Instagram</a>
+</p>
 
 ---
 
-Saya terbuka untuk kolaborasi proyek AI/ML yang menarik atau diskusi peluang baru. Jangan ragu untuk menghubungi!
-
 <p align="center">
-  <i>"Teknologi terbaik adalah yang menyatukan orang." — Matt Mullenweg</i>
+  <em>"Teknologi terbaik adalah yang menyatukan orang." — Matt Mullenweg</em>
 </p>
