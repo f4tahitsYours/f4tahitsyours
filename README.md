@@ -1,4 +1,4 @@
-<h1 align="center">Sultan Fatahillah</h3>
+<h1 align="center">Halo, saya Sultan Fatahillah👋</h3>
 
 <h3 align="center">Machine Learning Engineer | Data Scientist | Pengembang Solusi AI</h3>
 
@@ -63,8 +63,8 @@ Model ML yang memprediksi kesuksesan akademik dengan akurasi 89% menggunakan met
 ## 📈 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=f4tahitsYours&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f4tahitsYours&theme=radical" alt="GitHub Streak">
 </p>
 
 ## 📫 Hubungi Saya
