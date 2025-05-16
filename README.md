@@ -47,7 +47,7 @@ Saya mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialisasi di 
 
 ## ⏳ Linimasa Proyek
 
-mermaid
+```mermaid
 gantt
     title Timeline Proyek Machine Learning
     dateFormat  YYYY-MM
@@ -57,6 +57,8 @@ gantt
     Academic Scheduler     :done, 2023-08, 2023-12
     section Data Science
     Student Analytics      :done, 2023-03, 2023-07
+```
+
 
 ## 📈 Statistik GitHub
 
