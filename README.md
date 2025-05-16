@@ -3,8 +3,6 @@
 # 👋 Halo, Saya **Sultan Fatahillah**  
 ### 💻 Machine Learning Engineer | 📊 Data Scientist | 🤖 AI Solutions Developer  
 
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuruddin-sulthon-syah-fatahillah-rahmani-35765829b/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sultanfatahillah_)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adjikp76@gmail.com)
