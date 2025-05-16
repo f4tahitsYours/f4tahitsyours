@@ -45,20 +45,11 @@ Saya mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialisasi di 
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
 </div>
 
-## ⏳ Linimasa Proyek
+## 🧠 Bahasa Pemrograman yang Sering Digunakan
 
-```mermaid
-gantt
-    title Timeline Proyek Machine Learning
-    dateFormat  YYYY-MM
-    section Computer Vision
-    ArtScape Platform      :active, 2024-01, 2024-06
-    section Optimization
-    Academic Scheduler     :done, 2023-08, 2023-12
-    section Data Science
-    Student Analytics      :done, 2023-03, 2023-07
-```
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4tahitsYours&layout=compact&theme=radical" alt="Top Langs">
+</p>
 
 ## 📈 Statistik GitHub
 
