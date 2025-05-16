@@ -11,11 +11,16 @@
 
 ## 🚀 Tentang Saya
 
+<div align="justify">
+
 Memiliki ketertarikan kuat pada bidang Machine Learning dan Data Science, dengan fokus pada pengembangan sistem cerdas berbasis data untuk menyelesaikan permasalahan dunia nyata.
 
 Aktif mendalami teknik pengolahan data, pengembangan model prediktif, serta integrasi solusi berbasis AI menggunakan pendekatan MLOps dan cloud deployment. Selalu terbuka terhadap tantangan baru yang mendorong eksplorasi teknologi dan peningkatan efisiensi sistem, dengan tujuan menghasilkan dampak nyata bagi pengguna akhir.
 
 Berkomitmen untuk terus mengeksplorasi teknologi terbaru dan praktik terbaik guna menciptakan solusi yang efisien, andal, dan bernilai strategis.
+
+</div>
+
 
 ### 🎯 Highlight Profesional:
 - 🎓 **Lulusan Bangkit Academy 2024** (Machine Learning Path)
