@@ -69,7 +69,7 @@ Saya adalah mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialis
 </p>
 
 
-## 📫 Hubungi Saya
+## 🤝 Mari Berkolaborasi
 
 <div align="center">
   <strong>🚀 Terbuka untuk Kolaborasi!</strong><br>
@@ -83,14 +83,3 @@ Saya adalah mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialis
   <em>“Teknologi terbaik adalah yang menyatukan orang.” — Matt Mullenweg</em>
 </p>
 
-<p align="center">
-  <a href="mailto:emailanda@example.com">
-    <img src="https://img.shields.io/badge/Email-DM%20Saya-informational?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/linkedinanda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kunjungi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/usernameanda" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
