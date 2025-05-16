@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
 ---
+
 ## 🚀 Tentang Saya
 
 Saya mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialisasi di bidang Machine Learning dan Data Science. Fokus saya adalah mengembangkan sistem cerdas yang menyelesaikan masalah nyata melalui pendekatan berbasis data. Saya bersemangat menciptakan solusi teknologi yang memanfaatkan teknik AI terkini.
