@@ -1,4 +1,6 @@
-# Sultan Fatahillah
+<p align="center">
+  <i>"Sultan Fatahillah</i>
+</p>
 
 <h3 align="center">Machine Learning Engineer | Data Scientist | Pengembang Solusi AI</h3>
 
