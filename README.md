@@ -11,7 +11,9 @@
 
 ## 🚀 Tentang Saya
 
-Saya adalah mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialisasi dalam bidang Machine Learning dan Data Science. Saya antusias dalam membangun sistem cerdas berbasis data untuk memecahkan permasalahan nyata. Saat ini saya fokus mengembangkan solusi AI dan mendalami praktik terbaik MLOps serta cloud deployment.
+Saya adalah profesional yang berfokus pada bidang Machine Learning dan Data Science, dengan minat mendalam dalam merancang dan membangun sistem berbasis kecerdasan buatan untuk menyelesaikan tantangan nyata di berbagai sektor industri.
+
+Keahlian saya mencakup pengolahan data, pengembangan model prediktif, serta penerapan solusi AI yang dapat diskalakan menggunakan pendekatan MLOps dan cloud-based deployment. Saya berkomitmen untuk terus mengeksplorasi teknologi terbaru dan praktik terbaik guna menciptakan solusi yang efisien, andal, dan bernilai strategis.
 
 ### 🎯 Highlight Profesional:
 - 🎓 **Lulusan Bangkit Academy 2024** (Machine Learning Path)
