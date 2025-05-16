@@ -1,9 +1,6 @@
 <h1 align="center">Halo, saya Sultan Fatahillah👋</h3>
 
 <h3 align="center">Machine Learning Engineer | Data Scientist | Pengembang Solusi AI</h3>
-
-## 🌐 Sosial Media
-
 <p align="center">
   <a href="https://www.linkedin.com/in/nuruddin-sulthon-syah-fatahillah-rahmani-35765829b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
