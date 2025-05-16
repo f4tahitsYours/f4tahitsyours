@@ -1,5 +1,7 @@
 <h1 align="center">Halo, saya Sultan Fatahillah👋</h3>
 
+---
+
 <h3 align="center">Machine Learning Engineer | Data Scientist | Pengembang Solusi AI</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nuruddin-sulthon-syah-fatahillah-rahmani-35765829b/" target="_blank">
@@ -26,6 +28,8 @@ Saya mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialisasi di 
 - 🌱 **Pembelajar Aktif** - Saat ini mendalami MLOps dan solusi AI berbasis cloud
 
 ## 🛠 Keahlian Teknis
+
+---
 
 ### Machine Learning & AI
 <div>
@@ -54,11 +58,15 @@ Saya mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialisasi di 
 
 ## 🧠 Bahasa Pemrograman yang Sering Digunakan
 
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4tahitsYours&layout=compact&theme=radical" alt="Top Langs">
 </p>
 
 ## 📈 Statistik GitHub
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=f4tahitsYours&show_icons=true&theme=radical" alt="GitHub Stats">
@@ -66,6 +74,9 @@ Saya mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialisasi di 
 </p>
 
 ## 📫 Hubungi Saya
+
+---
+
 Saya terbuka untuk kolaborasi proyek AI/ML yang menarik atau diskusi peluang baru. Jangan ragu untuk menghubungi!
 
 <p align="center">
