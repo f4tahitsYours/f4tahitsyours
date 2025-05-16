@@ -45,20 +45,18 @@ Saya mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialisasi di 
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
 </div>
 
-## 🔭 Proyek Unggulan
+## ⏳ Linimasa Proyek
 
-### ArtScape - Platform Pasar Seni Berbasis AI
-**Teknologi:** Python, TensorFlow, Flask, Computer Vision, Sistem Rekomendasi  
-Platform yang menghubungkan seniman dengan kolektor di Indonesia menggunakan AI untuk rekomendasi dan autentikasi karya seni.  
-[Lihat Proyek](https://github.com/your-artscape-repo)
-
-### Optimasi Penjadwalan Pintar
-**Teknologi:** Algoritma Genetika, Simulated Annealing, Python  
-Sistem optimasi jadwal perkuliahan yang mengurangi konflik jadwal hingga 78% dibanding penjadwalan manual.
-
-### Prediksi Performa Akademik Mahasiswa
-**Teknologi:** XGBoost, Pandas, Scikit-learn  
-Model ML yang memprediksi kesuksesan akademik dengan akurasi 89% menggunakan metrik perilaku siswa.
+mermaid
+gantt
+    title Timeline Proyek Machine Learning
+    dateFormat  YYYY-MM
+    section Computer Vision
+    ArtScape Platform      :active, 2024-01, 2024-06
+    section Optimization
+    Academic Scheduler     :done, 2023-08, 2023-12
+    section Data Science
+    Student Analytics      :done, 2023-03, 2023-07
 
 ## 📈 Statistik GitHub
 
