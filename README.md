@@ -14,7 +14,6 @@
   </a>
 </p>
 
----
 
 ## 🚀 Tentang Saya
 
@@ -26,7 +25,6 @@ Saya adalah mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialis
 - 🤖 **End-to-End Machine Learning Practitioner** — Dari eksplorasi data hingga deployment
 - 🌱 **Saat ini mempelajari:** MLOps, cloud AI solutions, dan production-level ML pipelines
 
----
 
 ## 🛠️ Keahlian Teknis
 
@@ -55,7 +53,6 @@ Saya adalah mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialis
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
 
----
 
 ## 🧠 Bahasa Pemrograman yang Sering Digunakan
 
@@ -63,7 +60,6 @@ Saya adalah mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialis
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4tahitsYours&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
----
 
 ## 📊 Statistik GitHub
 
@@ -72,20 +68,29 @@ Saya adalah mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialis
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=f4tahitsYours&theme=radical" alt="GitHub Streak">
 </p>
 
----
 
 ## 📫 Hubungi Saya
 
-Saya terbuka untuk kolaborasi dalam proyek AI/ML atau peluang kerja yang menarik. Jangan ragu untuk menghubungi saya melalui platform berikut:
+<div align="center">
+  <strong>🚀 Terbuka untuk Kolaborasi!</strong><br>
+  Saya sangat antusias untuk terlibat dalam proyek menarik di bidang <strong>Artificial Intelligence</strong> atau <strong>Machine Learning</strong>.  
+  Jika Anda memiliki ide, peluang, atau hanya ingin berdiskusi — <em>jangan ragu untuk menghubungi saya!</em>
+</div>
+
+<br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nuruddin-sulthon-syah-fatahillah-rahmani-35765829b/" target="_blank">LinkedIn</a> • 
-  <a href="mailto:adjikp76@gmail.com" target="_blank">Email</a> • 
-  <a href="https://instagram.com/sultanfatahillah_" target="_blank">Instagram</a>
+  <em>“Teknologi terbaik adalah yang menyatukan orang.” — Matt Mullenweg</em>
 </p>
 
----
-
 <p align="center">
-  <em>"Teknologi terbaik adalah yang menyatukan orang." — Matt Mullenweg</em>
+  <a href="mailto:emailanda@example.com">
+    <img src="https://img.shields.io/badge/Email-DM%20Saya-informational?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/linkedinanda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kunjungi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/usernameanda" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
 </p>
