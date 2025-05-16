@@ -1,95 +1,75 @@
-<h1 align="center">Hi there, I'm Sultan Fatahillah 👋</h1>
-<h3 align="center">Machine Learning Enthusiast & Data Analyst Enthusiast</h3>
+# Sultan Fatahillah
 
----
+<h3 align="center">Machine Learning Engineer | Data Scientist | Pengembang Solusi AI</h3>
 
-🌟 **About Me**
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://medium.com/@yourprofile"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+</p>
 
-I am a Computer Science student at Nusa Cendana University, deeply passionate about Machine Learning, Artificial Intelligence, and building impactful technology products. I enjoy solving real-world problems using data-driven approaches and have hands-on experience in developing intelligent systems, and collaborative projects.
+## 🚀 Tentang Saya
 
-- 🎓 **Bangkit Academy 2024 Cohort** – Machine Learning Path Graduate (supported by Google, GoTo, Traveloka)
-- 🎨 Team Leader & Machine Learning Lead of **ArtScape** – AI-powered art marketplace app
-- 💡 Experienced in building predictive models, NLP, computer vision, and optimization systems
-- 🌐 Skilled in building end-to-end Machine Learning pipelines, developing AI models for real-world applications, and applying Deep Learning techniques in areas such as NLP and Computer Vision.
-- 🎯 Currently exploring MLOps, cloud AI deployment
-- 📜 Open for collaborations and project-based learning!
+Saya mahasiswa Ilmu Komputer di Universitas Nusa Cendana dengan spesialisasi di bidang Machine Learning dan Data Science. Fokus saya adalah mengembangkan sistem cerdas yang menyelesaikan masalah nyata melalui pendekatan berbasis data. Saya bersemangat menciptakan solusi teknologi yang memanfaatkan teknik AI terkini.
 
----
+**Pencapaian Profesional:**
+- 🎓 **Lulusan Bangkit Academy 2024** (Machine Learning Path) - Program bakat teknologi kompetitif oleh Google
+- 🏆 **Team Lead ArtScape** - Membangun platform pasar seni berbasis AI dari konsep hingga produksi
+- 🔍 **Praktisi Data Science** - Pengalaman menyeluruh dalam pipeline ML dari pengolahan data hingga deployment model
+- 🌱 **Pembelajar Aktif** - Saat ini mendalami MLOps dan solusi AI berbasis cloud
 
-## 🧠 Tech Stack – Machine Learning & Artificial Intelligence
+## 🛠 Keahlian Teknis
 
-### 🧩 Core Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=flat&logo=xgboost&logoColor=white)
+### Machine Learning & AI
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost">
+</div>
 
----
+### Data Engineering & MLOps
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow">
+</div>
 
-### 📊 Data Analysis & Visualization  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-2E4A62?style=flat)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+### Platform Cloud
+<div>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+</div>
 
----
+## 🔭 Proyek Unggulan
 
-### 🤖 Deep Learning & NLP  
-![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-FFBF00?style=flat&logo=huggingface&logoColor=black)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)  
-![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=flat&logo=python&logoColor=white)  
-![YOLO](https://img.shields.io/badge/YOLOv5-292929?style=flat&logo=github&logoColor=white)
+### ArtScape - Platform Pasar Seni Berbasis AI
+**Teknologi:** Python, TensorFlow, Flask, Computer Vision, Sistem Rekomendasi  
+Platform yang menghubungkan seniman dengan kolektor di Indonesia menggunakan AI untuk rekomendasi dan autentikasi karya seni.  
+[Lihat Proyek](https://github.com/your-artscape-repo)
 
----
+### Optimasi Penjadwalan Pintar
+**Teknologi:** Algoritma Genetika, Simulated Annealing, Python  
+Sistem optimasi jadwal perkuliahan yang mengurangi konflik jadwal hingga 78% dibanding penjadwalan manual.
 
-### ☁️ MLOps & Deployment  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![MLflow](https://img.shields.io/badge/MLflow-1679AB?style=flat&logo=mlflow&logoColor=white)  
-![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=wandb&logoColor=black)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+### Prediksi Performa Akademik Mahasiswa
+**Teknologi:** XGBoost, Pandas, Scikit-learn  
+Model ML yang memprediksi kesuksesan akademik dengan akurasi 89% menggunakan metrik perilaku siswa.
 
----
+## 📈 Statistik GitHub
 
-### ☁️ Cloud & Data Platforms  
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)  
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
+</p>
 
----
+## 📫 Hubungi Saya
+Saya terbuka untuk kolaborasi proyek AI/ML yang menarik atau diskusi peluang baru. Jangan ragu untuk menghubungi!
 
-### 🗃️ Databases & Querying  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
----
-
-🚀 **Highlighted Projects**
-
-- 🎨 [ArtScape](https://github.com/your-artscape-repo)  
-  *AI-powered art marketplace connecting artists and collectors across Indonesia.*
-
-- 📅 Smart Schedule Optimization  
-  *Optimized university class schedules using Genetic Algorithms and Simulated Annealing.*
-
-- 📈 Student Performance Predictor  
-  *Built a regression-based ML model to predict academic success using student behavior metrics.*
-
----
-
-📫 **Let's Connect**
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nuruddin-rahmani/)
-- 📧 Email: adjikp76@gmail.com
-- 💼 [Portfolio](https://fatahrahmani.netlify.app/portfolio-page)
-
----
-
-🧭 *"I believe that technology, when guided by purpose, can empower people, transform communities, and shape a better world."*
+<p align="center">
+  <i>"Teknologi terbaik adalah yang menyatukan orang." — Matt Mullenweg</i>
+</p>
